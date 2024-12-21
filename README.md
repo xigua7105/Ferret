@@ -25,3 +25,11 @@ python detection_demo.py --model_name ferret-lite-median-3
 ```
 
 ## Experimental Results
+
+## Citation
+If the code and paper help your research, please cite our paper:
+```
+```
+
+## License
+This project is released under the Apache 2.0 license. Please see the [LICENSE](LICENSE) file for more information.
