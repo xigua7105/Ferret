@@ -3,7 +3,7 @@
 ## Installation
 #### 1. Clone the repo
 ```bash
-git clone https://github.com/xigua7105/Ferret
+git clone https://github.com/xigua7105/Ferret.git
 cd Ferret
 ```
 
